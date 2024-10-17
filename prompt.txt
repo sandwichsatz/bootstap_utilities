@@ -1,0 +1,3 @@
+Decide whether the following text provides an answer to the question "On which continents are bees found?":
+Text: ""
+Give an integer relevance score between 0 meaning not relevant at all and 10 meaning highly relevant. Use the format: "Score: *score*"
